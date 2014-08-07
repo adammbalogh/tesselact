@@ -15,6 +15,13 @@ Tessel - Salt Powered Vagrant - Box
 * Customize **Vagrantfile** *(optional)*
 * `vagrant up` *(takes ~20 minutes)*
 
+### Testing
+* `vagrant ssh`
+* unplug/plug your tessel
+* `tessel list`
+* `tessel run apps/blinky/index.js`
+  * You should see led lights are blinking
+
 ### Customize
 * edit configurations in **salt/roots/pillar**
   * see configs.sls.example to the entire configuration
