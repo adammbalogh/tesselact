@@ -34,4 +34,4 @@ Tessel - Salt Powered Vagrant - Box
 * git
 * openssl
 * nodejs 0.10.30
-* tessel
+* tessel (npm)
