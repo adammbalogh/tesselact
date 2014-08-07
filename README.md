@@ -1,6 +1,6 @@
 tesselact
 ============
-Tessel Salt Box
+Tessel - Salt Powered Vagrant - Box
 
 ### Requirements
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
